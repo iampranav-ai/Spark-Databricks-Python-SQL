@@ -1,0 +1,101 @@
+id,transaction_id,customer_id,product_id,category,subcategory,product_name,quantity,price,transaction_date,payment_method
+1,f57af00c-fb6f-4f77-9314-1c815d4585d6,c3619668-bc86-4976-aa18-32bb8e57e26a,88c91320-c802-47a8-afb2-069c01cbefbe,Home & Garden,Decor,question,5,949.01,35:21.9,PayPal
+2,a5c0685e-6c3e-481d-8775-9efb36bbe4f9,fdf29cab-a94f-4151-9ec1-aa9f5e54ccf4,248c9bb0-3d9c-4e92-9708-b28147390422,Books,Educational,notice,10,784.21,22:07.9,Cash on Delivery
+3,3c9e17ec-3d90-4c9d-809e-3d5c44b2fa56,ba10f18c-15de-4490-945d-021f8087b9a2,171d47eb-beb1-4405-8cd4-d3a8911cc970,Home & Garden,Bedding,see,1,388.69,39:39.5,Credit Card
+4,76d99c03-266e-4bff-8fac-abc5109f23ca,9ef5dea1-9ff7-4875-aa9c-66dfc064d2cd,7f12d62a-573d-41c4-a7ea-9a7cd6b2aea8,Electronics,Laptops,gas,5,239.25,42:39.8,Debit Card
+5,2d8ef215-c412-4cf3-b273-dbd037399a31,1cc22cae-e21d-4126-a921-a5bb6f912d5e,1bae6454-fc5e-4424-9ef2-9f7b212a024b,Clothing,Women's,analysis,8,447.14,59:34.9,Debit Card
+6,717ea9d2-d8fe-4e09-aa1d-42a12a4efd4f,ed076133-9566-4c85-8e66-fbd5fe13f55c,55c3cead-ed05-4b51-ac40-c6900a4078a3,Clothing,Footwear,also,1,390.86,45:17.5,Debit Card
+7,ada83745-bd68-4458-a99a-166bcba39f22,901cc5f9-9fc1-408b-a5f4-5acbcd1fb7ba,1f210ea2-9ca1-4856-a71c-003aa9970bec,Electronics,Audio,any,8,141.48,40:13.0,PayPal
+8,1cfe3b6b-e48e-4497-8cb5-f349680c975f,136c6f4e-32e5-406f-b62e-c3262c7d95e7,502432db-ebd4-4e0b-9a91-ead8e47db5cf,Books,Educational,strong,10,738.87,59:17.8,PayPal
+9,c56ee48d-4554-466b-89fb-dbb18d9d5ba1,ff49d5ef-c513-4f2d-ab12-5450624acb1b,3e62a2c8-5ec6-49ea-8a28-73a8d31e2461,Electronics,Smartphones,its,1,860.69,44:44.4,Debit Card
+10,45eb24e6-db8f-4f0a-9be6-7d9f48e4e225,aec936ff-c6a7-4b31-bbaa-1c2ba68705d8,a7628c42-521b-4a3b-bb8f-35dc8437393a,Sports & Outdoors,Water Sports,significant,6,839.56,24:25.7,Cash on Delivery
+11,1a9f6528-4fba-44c8-ae54-87d696bbf9f4,3c6e3583-0332-4594-8e71-873e6eff241a,714cce8f-a5d9-42bf-8e2b-6a68038a6e2d,Home & Garden,Decor,reality,7,200,08:46.8,Debit Card
+12,236ae338-b4a9-4b96-b12c-56307034975e,38182db4-180d-41fa-9f14-17f6c9d762e8,91210248-4fdb-4a0c-bb69-0c5bb938ac5b,Clothing,Children's,exactly,4,181.61,48:45.6,Cash on Delivery
+13,1d0ea1d7-fef8-49a5-aee4-f68a18905db3,41e3e0e5-f432-4f4e-bdc4-f5d9e361ac1e,1341f634-c5ec-481e-9366-be4e3d5843a1,Books,Educational,establish,6,824.75,01:15.3,PayPal
+14,072e2bd6-6805-4907-8ccb-8bb95ba30b59,35bb0ee8-b8f7-4230-89b0-9cf285eb59b5,f4029a81-0c6e-4d33-8763-16ccd4832541,Home & Garden,Gardening,pattern,10,266.89,15:12.7,PayPal
+15,d0d5c0b9-3e24-42e4-bb42-82d6aaa78483,116584b4-c679-4bee-8d9e-80ce3df9b984,e22be192-cf35-49a2-aea8-d1c4702e59e5,Home & Garden,Decor,glass,8,277.79,42:46.1,PayPal
+16,a837caf4-41cb-4a15-81a4-ac42b7d6cc42,9b68e9cc-d0ff-4465-98d0-5817b43f7a12,1babca35-8b85-49a0-ba2c-6f82f24ce4b0,Sports & Outdoors,Team Sports,somebody,6,772.91,12:37.8,Credit Card
+17,897a9292-3fa6-40a3-851e-f92771d52990,0fb6f91e-1ddf-45be-95d6-b05deb0942e5,d585b332-8e3f-42d8-be8e-06631f6a275e,Books,Magazines,hot,8,331.02,51:33.2,Debit Card
+18,1b977bfb-6365-4e19-b60e-7da9084e9764,1289caaa-edb9-4514-a2ee-f95a48a81fb1,07e1bb7a-4171-47ac-b87d-305c485e2975,Clothing,Children's,own,8,434.4,34:11.5,PayPal
+19,01e70ef7-f907-42f5-8ee8-12468ba1c2df,3912c482-d213-4b2a-8d20-46ac7754c055,7097d23a-32b1-48ce-be20-7b0a4b75a1e8,Sports & Outdoors,Cycling,area,1,701.66,05:37.6,Cash on Delivery
+20,1e3ddc90-3db0-47fb-b89a-bad7f414bb24,8c7356bc-823a-46b6-b6ca-a5c44316ce1e,d756c780-8906-48f7-910f-26d88afb0e6c,Electronics,Laptops,to,2,690.47,18:55.1,Debit Card
+21,9daa0222-beca-4e48-9ab2-a7085c86a4fb,dce23dbe-8d5c-4751-9cd2-d5d13457d6da,5f41d870-76c5-4531-a0de-5fa98279c6cb,Electronics,Audio,resource,4,257.23,08:55.1,Credit Card
+22,1f03e3ee-6b1a-4793-920f-ff677a6a7607,526c43c1-8e6e-44db-b26e-2b9f78255dac,4698b4b9-c301-4c27-9723-a3764903bfe7,Clothing,Children's,year,10,201.86,37:23.1,Debit Card
+23,3555d8fa-2b88-41b2-a491-7fa9c736bcb4,0f6ecb63-9dcf-4391-8422-9099fece3b30,71bb2f42-c1fe-4196-99b0-f1bc7a94a6d6,Books,Magazines,reveal,6,412.53,20:25.5,Cash on Delivery
+24,ffa04a0b-1032-43a1-aab5-cd5dd7a55f36,fb77a26e-72a8-4618-9f19-019f06172906,2b318fc6-6389-49a8-b983-b1991a9cd73b,Electronics,Cameras,decision,6,944.01,21:05.8,Cash on Delivery
+25,d8d7526e-ee76-496c-affc-ca2f97abd3a4,58b9b36a-c91c-422c-9100-ed2e459fd0fe,c27dcc06-1128-419f-bbc4-13d5be1a8ab7,Books,Fiction,per,3,596.78,27:51.0,Debit Card
+26,0a027376-4f4f-4674-b7e2-48e1175f66a0,018e8e9b-43f4-41c9-a7c5-c40cfd7036aa,559d7158-34f7-4aa2-aec5-d837658423d9,Electronics,Laptops,apply,2,951.19,21:43.3,Cash on Delivery
+27,2b1d6ac1-8810-4c99-a897-942a8c7bce33,152abd0f-c2fb-43b2-895c-b2cfcf34f78a,8f140503-87ae-474f-b0c5-90687b6b05eb,Clothing,Women's,marriage,8,559.43,09:30.7,Debit Card
+28,8f81bf4f-be4e-4a81-9621-f21bc39d55e5,443718d1-9b88-4a5c-9e5a-5c6b570f4a5d,9a0172c3-de61-423f-9be2-7b651fc0e198,Electronics,Audio,when,10,906.85,11:46.9,Credit Card
+29,c27a31ad-d065-4a58-bf21-4b094e6975ca,965bd6b2-d69f-4aae-833d-b963cad6e971,4333816f-271b-4d80-83e6-7f59b1ef1dfb,Clothing,Accessories,writer,1,183.56,50:18.8,PayPal
+30,7d6d710c-e566-400e-bb7a-d25a4974810a,30d88261-187b-4bf2-afc6-1f29594140a3,6a0be537-7b58-46e4-b88f-882370d2b97a,Clothing,Women's,carry,10,249.32,38:08.8,PayPal
+31,0ea57040-570b-4b6c-b078-a0b6c52d3d49,9602bfbe-e8b7-49db-825f-fb311addf726,c922c15b-81cd-407d-a5b5-613620be1014,Clothing,Men's,network,10,939.35,14:55.3,PayPal
+32,21359599-1319-4770-bbd5-e31cbcd321f1,c0a90828-f52c-4d64-bc6f-ae174e4f0bc4,00a2cd2c-c16a-46df-9ae7-7a56eee80c72,Sports & Outdoors,Fitness,sing,7,690.69,35:08.6,Credit Card
+33,e0cc2aea-5418-4dbc-a327-5f873fc5e2e8,2b7ae8d9-f8c5-4a90-817b-040890d09b92,66200176-2ab2-4715-a704-3da515b85d4a,Books,Comics,through,5,294.93,34:29.6,Credit Card
+34,3b30a750-9fe8-4aa3-af7d-31e8a899ed03,4b6426d8-7cf3-4e55-b2dd-59d8c6f5db22,abeb22e4-a4e2-47de-a962-ad6ced7563c1,Sports & Outdoors,Team Sports,production,5,201.57,08:33.2,Debit Card
+35,926f9577-50c8-4d35-953e-d351f14ac8ba,f8caa2f1-08a2-4b05-afc4-659d585f8e2c,db75f4c0-e849-4db0-8be0-5ade3dbb8219,Sports & Outdoors,Cycling,significant,4,438.82,33:36.8,Cash on Delivery
+36,70603684-971a-4392-b637-5f3fafc91170,73096f25-8c7f-47c9-afe7-0b3fea9c34b2,b752a990-f238-4e33-93e6-44a6678ea52e,Home & Garden,Gardening,next,5,795.32,51:21.9,Debit Card
+37,2b6f103c-3e25-4ef3-9695-88839ba7b60a,91710c7d-ab58-4cce-a4ec-e9512e17fe04,a5eba96f-5334-43f9-9b1e-b373fedafaf4,Clothing,Footwear,dinner,3,371.52,42:12.5,Cash on Delivery
+38,6bb64f9f-4e32-4317-a1e7-52c53ed2552b,a93a8bdd-12b1-4e47-b3b9-a9d3464d4622,e9aac599-7026-4817-836b-8146d0d9d079,Books,Fiction,money,10,522.47,02:46.9,Cash on Delivery
+39,f80a3e87-afb5-454a-b841-b8dd2980590e,d50f21e0-6fcd-447e-8fa0-f71c2310298d,378412cd-10ae-4d93-99e5-06347938e749,Electronics,Tablets,plan,3,616.37,38:03.3,PayPal
+40,b9560571-29ae-4af8-ada8-fc689f182bc8,b3d9d784-6f38-46c3-abf8-a697a4306131,518546c1-406d-4fa2-b871-f4bf8297b4a1,Home & Garden,Decor,those,2,202.95,48:24.3,PayPal
+41,b15be72a-9213-43a9-9543-ac5644646cc9,a48885dd-2108-46fd-b835-008267618b11,bcd3bf7c-bf23-4527-b7c1-3b342ec26b1b,Clothing,Children's,provide,6,405.9,01:39.9,Debit Card
+42,a05ad8ef-40a4-45a3-bbdb-ecae5bb49099,6c8e9043-69c7-4418-a7f7-4f6a1c960aba,c34ce773-3acc-4b3b-9032-0e605186a511,Books,Magazines,Mrs,6,763.03,58:07.6,Credit Card
+43,857f82c3-7321-4027-9456-8a51e73bb050,1c80ab22-37aa-46e5-ad03-5688d93d9b3b,d8d05897-9c2c-4758-89b1-41c2a775c16b,Electronics,Smartphones,address,2,630.03,21:20.6,Cash on Delivery
+44,a7b7c471-39e1-4e42-924b-7ab23b38b51d,91784c7e-7f4c-45b8-baea-16bd94896910,893294ed-ae48-4b75-aaae-d7df2f2a8d23,Clothing,Women's,state,8,42.55,09:40.1,Debit Card
+45,db82179c-af12-4923-bdac-f92529ee7574,a3aed207-0050-400c-b24c-8188e45136ad,b77de07f-325d-4df0-9569-6a191e084688,Books,Magazines,as,10,121.68,58:28.4,Debit Card
+46,96ed2dc3-d81c-4586-9241-6a29d697bd0e,2263c69d-7212-4c5b-bf06-b4bfca383ea6,e4e3b52e-7851-492c-8f16-5f0936db9d50,Electronics,Smartphones,order,7,843.4,25:30.8,PayPal
+47,b701c8ad-7198-418e-8ace-0ac7d0a964a0,cf7b55fb-0c26-428d-b1fc-064923dd0bf5,48665fd3-48d7-4aba-98b4-6764fcc21838,Books,Magazines,involve,3,139.5,46:19.1,Cash on Delivery
+48,3f87df54-28ce-4086-b389-75d5ab088243,7cee3966-bce7-4dc1-b93c-dae793a7f3cd,a43eba1d-d2bb-47c8-8b5d-4f2817f04a85,Sports & Outdoors,Fitness,development,8,923.95,05:49.8,Cash on Delivery
+49,2330b76b-2fe2-4597-85ad-69bff546f199,b60366fa-4bca-4ff9-b73d-d0f9c08cb99b,c83a8db8-949b-4a0b-abee-f4d72b007770,Electronics,Smartphones,consumer,7,600.2,35:45.7,PayPal
+50,fe056210-56d4-41a9-8d87-59007d42172c,6dd7569f-fb15-41d0-9bb1-5600f31c7b87,65cefab9-3810-450c-8a9d-fa9ba679cbf9,Clothing,Children's,understand,7,584.9,02:16.0,Debit Card
+51,c03cc4d6-b751-4691-ac03-0bc020e2a54b,2e37b69c-af58-4b71-aefd-188606ef818a,8c940924-a92b-4701-8850-d6430e516978,Books,Non-fiction,high,7,925.09,58:39.8,Cash on Delivery
+52,18ca3dde-2ba0-45d9-bb8e-c616c315c6e0,b2a32c23-0d20-43ce-8ad3-6228c1c02436,3884f869-677c-46d1-b7e0-1ec2f5cba7a9,Books,Educational,team,1,770.68,34:46.9,PayPal
+53,cd1de3c8-4c9e-4aca-963c-46ab8172999f,a2e362f3-d3b1-4748-81d2-6173899a433e,0e38336d-3193-4f7d-aa2e-3c5c875fdc56,Sports & Outdoors,Fitness,message,8,232.07,28:07.2,Credit Card
+54,387678c4-dfb1-4180-a564-83f50122980b,1a1683b5-2ffb-4f0a-abc7-920c93ea9592,1d59284b-6ec8-491d-b793-6d6be6aaa2e9,Electronics,Cameras,box,3,17.98,50:37.6,Credit Card
+55,3ff1f22c-4bc8-487a-a378-b93b4c0e4ac1,9e88b97f-cf3f-43a3-a52e-f186d118709c,72b4ba96-9f5d-4cce-8f63-a10e5f6d8f39,Sports & Outdoors,Team Sports,chair,10,279.76,39:43.2,Credit Card
+56,2dd47421-dd5e-40b1-9bfd-7dfbd201a1b6,c7ca76ef-2aba-41be-a233-6ee0a542730d,c4ae7015-b338-44d3-b733-b1a326b5caed,Books,Comics,reflect,6,64.68,54:41.6,PayPal
+57,eb1fd792-8ee1-4a62-b2d3-8314a3825728,303acdac-6217-4a70-bb19-3314611a9401,64aacd11-585b-43ad-a87e-29d50fd1a5e4,Home & Garden,Gardening,election,5,426.42,19:16.1,Debit Card
+58,f56a427b-ca9e-4083-b8e7-e080de161491,28e469ca-f3b7-42d3-9f2b-9c125167986d,b1e6985c-be29-441c-bf36-db258a4503f7,Electronics,Audio,partner,6,918.89,05:13.4,Debit Card
+59,6f60eaff-7fae-4b10-8f90-568cb72c7a6c,a2556544-fe87-4167-9f7d-fd2a71e7ed7f,49534203-c00b-4efe-a33b-c065d25185ba,Home & Garden,Bedding,dark,3,229.83,30:17.1,Cash on Delivery
+60,99fcf806-2d1a-42c2-a92c-74747cf5a54b,66679400-1397-473f-bf8c-f7394cbe554f,4edee5f1-151e-4933-9842-5b78dcaf6f50,Books,Educational,dark,6,157.43,25:07.8,PayPal
+61,11ecadf3-737b-40d8-8c9a-93075aafa728,35cf01ea-2f25-4915-9527-d7f76b3c1239,03afd076-5d18-4d1d-a535-e734bd8cde64,Home & Garden,Decor,choice,6,491.42,12:09.8,Cash on Delivery
+62,45c25554-1bdd-4ff3-bf23-94bb0653f324,731552e3-4c6b-44ff-98ea-103d70de1ebb,a4477457-434d-4d0b-a52e-52c8f519c03f,Clothing,Men's,relationship,9,19.7,05:01.4,Debit Card
+63,45e4740c-f2bd-4ba9-be3c-03fb984d7442,19b5178c-16e6-4a2c-ab7e-2ba27ea9cf2d,5ceee1b8-d3e2-4fe0-8df6-8e1fd3813a4d,Books,Fiction,not,4,417.44,30:27.0,Debit Card
+64,cc47f802-a434-4d10-ba24-7eeffaf2c3e6,d6face74-2f49-40cd-8a4d-ee07abc499f2,41f2e003-a0fe-4453-a429-ed6b8558ea9d,Books,Educational,question,6,138.32,04:46.7,PayPal
+65,46a30607-f363-41f6-b611-6d436e78672d,de29c437-4a64-4050-9952-ab5f477398f6,3df0a025-59ae-4c7b-97ec-aeaf42010b33,Clothing,Men's,even,1,897.63,08:42.9,Debit Card
+66,e558e5c5-8daa-40f1-9fcf-3b2135d1593d,ce522721-7897-437d-82df-b9d66ffa881d,b39ce7d2-e8db-481e-afb2-00b059ada892,Clothing,Footwear,magazine,7,588.68,21:15.2,Cash on Delivery
+67,420d5ced-19c1-4569-9152-4297b1f4cad3,2d1fe97b-0fea-4329-a5a5-7365c9e6cbec,e7e0781c-1e3c-4231-8e80-6967263e548e,Home & Garden,Bedding,authority,3,74.06,01:23.9,Cash on Delivery
+68,1a9257be-5f77-4114-8ab0-fce130b1b877,73539efa-2a42-41dc-b5d2-942bfc54d4dc,828342f4-f93b-4f54-9082-178c3840cbf9,Clothing,Footwear,movement,10,293.04,53:25.6,PayPal
+69,04b50404-cc29-4c0e-afe9-d115056b3e1a,f34b483b-30e3-4b25-b358-2ae8924b1949,ec497453-6406-4697-8397-91bb73453a11,Electronics,Smartphones,rest,8,889.97,57:56.2,Cash on Delivery
+70,e7ec8724-61ee-41f5-8108-7ce0c2e27aa2,c2b9c8d5-b66c-4f64-ae7d-42c5483d7aa8,7b1f1487-d06f-4fe2-a4ad-2c3ae00aa2c9,Electronics,Cameras,perform,3,902.21,35:41.0,PayPal
+71,a02b641a-01b1-4490-87d5-75f3f5a7dfe3,fb5fd7a7-fb31-4d14-b47a-9e7758090cb8,d9b6d5ba-101d-4b65-a066-4068fe96a32b,Electronics,Cameras,official,10,112.93,35:14.6,PayPal
+72,e9bb8a5b-0473-4170-8040-ec219fd0323f,303d7894-3c4b-41ad-9988-30bffa6ed39e,b202ef8f-1f1d-4905-ab80-d3b4195752c6,Books,Fiction,her,3,463.31,27:50.1,Cash on Delivery
+73,f2ac6a14-a73e-4550-a357-8eb71f733dd3,abac35e5-4eb1-4eff-95a5-323167c62fce,886e61da-d020-4136-b04d-0a432aafe0cb,Electronics,Smartphones,reduce,9,154.05,31:46.8,PayPal
+74,d934c90e-a85e-4589-a6b0-2928b26d9a95,489d8391-bc86-43fc-b89d-b4644a6f4540,1754f36b-2d0a-4ed9-8591-c9691ea3f4c2,Home & Garden,Bedding,friend,3,668.89,54:15.4,Debit Card
+75,3e40bc6b-d18a-41b3-b3fd-998005b51167,3187aef4-cd3b-486b-90c5-ae4842e6769c,3177052f-530a-4862-9699-27b64d416cb8,Home & Garden,Gardening,owner,9,200.74,19:38.7,Credit Card
+76,5c467b8b-b33d-4590-a0fa-6b7712ac42f7,d895d67e-1955-4251-be0f-c3c724da0fbe,4267f2a2-53e3-4166-8215-fd7b02b7ebbf,Clothing,Children's,standard,6,930.31,35:45.9,Debit Card
+77,7623f9df-6ab9-4040-a72e-5c08e1207428,06dbe8aa-463f-45fc-a2bd-6654312f300f,c7afb106-d6cc-41c0-bb84-5b7c2b70b457,Clothing,Children's,politics,10,118.27,36:31.6,Cash on Delivery
+78,0a21d4d3-6a9f-46fa-b8f9-f2783c95ec3d,27c7491e-622a-4006-8d28-20c765093fab,46b7f8aa-7bdf-41dc-b252-e6b2f444208a,Home & Garden,Gardening,sea,2,596.35,56:44.8,PayPal
+79,6eba0c74-b301-400d-b5ef-9b1be907383f,c6729065-0bf0-466b-b4de-5e0b5697e6d5,95854383-0f4a-44d1-838b-4162d4c922c1,Sports & Outdoors,Camping,experience,5,674.31,12:30.5,PayPal
+80,99832793-91de-4b33-9465-0d605d2ad38e,97cbfc9c-7447-4d89-9d1a-4225caf5d019,0aa24017-b87e-4122-a57a-f38f191c766c,Electronics,Tablets,level,3,284.57,17:34.5,Debit Card
+81,66bbca87-d5a4-431f-9875-69417c1ae20a,68a40cd9-8c87-4f97-9b09-addf46eb9921,8bbf61ff-bfff-477e-9634-92bfd51cc5b9,Home & Garden,Kitchen,structure,8,729.43,41:23.9,PayPal
+82,095a2ff1-d18e-4944-bb5a-385cb7451ae0,c48933ab-6fc3-41c1-84cc-c684102b58fd,d6accf1e-7c09-44fb-8f45-30b11f2c820c,Electronics,Cameras,carry,5,94.99,32:20.3,Cash on Delivery
+83,54fcc2d1-53b4-42d7-b6ce-5cd674c31465,15b88675-a01e-4b81-ae92-3bc2e19b3470,bd3cbafa-d810-4f9e-8719-d4a685597443,Sports & Outdoors,Camping,choice,10,236.14,17:06.8,PayPal
+84,aa72ffef-65d1-434f-8e5a-2552ee49ee8f,21f836ea-dfb7-47aa-a2a8-8dced0b355ae,ff59f9f5-9e56-43c8-b6e0-87c179141df1,Books,Educational,company,2,608.52,18:12.6,Debit Card
+85,2e5b3aaa-1429-4cb1-a55d-e8716bb6dae3,eee3bf6c-6755-464a-ac7f-757019621bb8,dd9447cd-1187-432e-9f58-6427f1c7f368,Sports & Outdoors,Team Sports,air,3,610.58,47:14.5,PayPal
+86,a1ddb1d1-ae26-4037-99ac-6853d0324deb,4a28bfcd-9c82-4a42-b60d-e7f718175a94,b0aa2ab8-37a2-4dd2-99f5-543cf51c29a1,Books,Comics,authority,1,489.33,32:59.1,Credit Card
+87,5fb3dc10-8021-481a-b77c-28eb176dc109,2b18911b-1e2e-4634-8735-c3e395eec2ba,60bdab81-84b8-4258-89fb-670405a4c68e,Electronics,Tablets,full,1,219.3,37:42.1,Debit Card
+88,f4b829b6-edea-4ed8-839e-3b125276e33b,5f8ac5f9-375c-4cfe-95da-73d997297149,338d3c97-e1a0-499d-b8ed-f9723d961692,Electronics,Cameras,fight,7,528.94,57:25.4,Debit Card
+89,6f35745f-3c78-4db9-bcf9-c076cd202255,cc92f81e-fb4f-4ee0-a2b9-15dc96f1f784,44320433-17ec-4c37-beaa-aab2768bc854,Sports & Outdoors,Water Sports,culture,4,576.62,57:11.4,Debit Card
+90,43688680-fb02-4c5a-a621-d997c16d3c86,39db81b7-8698-408f-b550-cb464caf5c5d,1d7d0d03-74de-4e8d-92cc-1581c5cb9a63,Clothing,Men's,customer,10,765.03,43:14.1,Credit Card
+91,a2891338-f2a9-4bc9-bd08-209527044295,59c6c84d-f888-4a82-b7c8-13423b9d23ff,4029ac48-cc77-454c-9f61-cd73245bf8cb,Home & Garden,Gardening,decade,4,785.86,11:09.6,Debit Card
+92,b480cdb5-cbf2-4750-bce4-07a5c6edee22,77fba7f9-2b1b-4227-937c-544f9f15de0e,72a04176-f481-4b45-a215-37fb8a49a8c3,Clothing,Accessories,movement,6,98.99,23:59.3,Debit Card
+93,2ab2cb74-7d47-448c-9da4-4068dc94f2a7,4a573a37-61b8-42fc-88d3-367876f9c3bc,62b6d5c0-f78f-4533-b98f-e60f59c2bc8f,Clothing,Accessories,writer,5,614.88,51:07.4,PayPal
+94,4f2a60e3-000a-436b-ab8c-11f58899e5f5,1e9c26b1-30e2-47f0-a4e5-108f09707a97,5a39b170-e2f5-4910-b99d-9e9a68f0d4da,Home & Garden,Furniture,exist,7,201.62,36:41.5,PayPal
+95,afb091e3-1a8b-467d-b480-70b400f5e067,d3d970fe-0b10-4966-bfd8-b0ddc4f2c834,f84d09f7-2b0b-4f4d-83d8-bd86c6f1e3ca,Clothing,Children's,physical,9,561.93,36:47.3,PayPal
+96,d3f14c1f-be4f-4fa4-becc-b783e416a6a1,bfe9e798-73b9-4644-a113-fad8e026f7f3,951069d5-89ed-41ba-b3eb-582a010c9a9e,Books,Magazines,add,2,434.17,56:36.4,Debit Card
+97,a8f70e37-c52b-4a98-886f-2321eca9311b,029ee3a8-1310-4f72-a375-57a0a377d429,e560215e-2862-4030-8fe8-bdbed349766d,Sports & Outdoors,Camping,eye,8,893.06,16:06.2,PayPal
+98,0c5ddcb6-2476-48fb-82ef-de3d9d4ae543,b9962c1e-7c11-4767-af6a-fdbb8b4cdb3b,c1e39f32-ad42-4776-ad34-b9794a26bc31,Books,Fiction,real,6,568.92,03:41.4,Debit Card
+99,e1f33ef0-b652-4024-98be-553ca9c7e44a,7f276f22-5e61-405e-b988-92691849ab3c,b2e8305f-2483-4ae5-8255-5fb8fbee8216,Home & Garden,Furniture,will,10,617.08,10:54.2,Credit Card
+100,fef4541f-98c6-4fe5-b996-389b95b2747e,22e198a7-53a0-4bc9-a6da-cefe5964e8d6,a507df60-553a-4eb6-a3df-f2da1ec06198,Books,Comics,night,1,771.34,32:01.9,PayPal
